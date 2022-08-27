@@ -1,3 +1,3 @@
 # Drawing App
 
-![Drawing App](draing-app.png)
+![Drawing App](drawing-app.png)
