@@ -1,3 +1,3 @@
 # Drawing App
 
-SASS [Documentation](https://sass-lang.com/documentation/).
+![Drawing App](draing-app.png)
